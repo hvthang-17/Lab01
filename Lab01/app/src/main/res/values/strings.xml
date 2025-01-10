@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab01</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="roll">Roll</string>
 </resources>
